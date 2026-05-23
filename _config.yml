@@ -26,8 +26,20 @@ twitter:
   username:
 
 social:
-  name: "Dipsova Saha" # This displays your name in the footer copyright
-  email: write2deepsova@gmail.com # Replace with your real email if you want a contact button
+  title: "Dipsova Saha | Portfolio"
+tagline: "AI Technical Writer @ Salesforce"
+description: >-
+  A technical writing portfolio focused on Salesforce Data Cloud, RAG architectures, and enterprise AI.
+
+url: "https://dipsova-saha.github.io"
+baseurl: ""
+
+github:
+  username: dipsova-saha
+
+social:
+  name: "Dipsova Saha"
+  email: write2deepsova@gmail.com
   links:
     - https://github.com/dipsova-saha
     - https://www.linkedin.com/in/dipsova-saha-b1485291/ # Replace with your real LinkedIn handle
