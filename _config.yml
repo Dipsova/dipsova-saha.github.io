@@ -10,7 +10,7 @@ lang: en
 timezone:
 
 # Fill in the protocol & hostname for your site. No trailing slash.
-url: "https://dipsova-saha.github.io"
+url: "https://dipsova.github.io"
 baseurl: ""
 
 title: "Dipsova Saha | Portfolio"
@@ -19,30 +19,19 @@ description: >-
   A technical writing portfolio focused on Salesforce Data Cloud, RAG architectures, and enterprise AI.
 
 github:
-  username: dipsova-saha # This hooks up your GitHub profile link
+  username: dipsova # This hooks up your GitHub profile link
 
 # If you don't use Twitter, you can leave this blank or delete it
 twitter:
   username:
 
-social:
-  title: "Dipsova Saha | Portfolio"
-tagline: "AI Technical Writer @ Salesforce"
-description: >-
-  A technical writing portfolio focused on Salesforce Data Cloud, RAG architectures, and enterprise AI.
-
-url: "https://dipsova-saha.github.io"
-baseurl: ""
-
-github:
-  username: dipsova-saha
-
-social:
+social:                                                                                                            
   name: "Dipsova Saha"
-  email: write2deepsova@gmail.com
-  links:
-    - https://github.com/dipsova-saha
-    - https://www.linkedin.com/in/dipsova-saha-b1485291/ # Replace with your real LinkedIn handle
+  email: write2deepsova@gmail.com                                                                                  
+  links:                                                                                                           
+    - https://github.com/dipsova-saha                                                                              
+    - https://www.linkedin.com/in/dipsova-saha-b1485291/
+
 
 # Site Verification Settings (Leave empty for now)
 webmaster_verifications:
