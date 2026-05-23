@@ -1,18 +1,19 @@
 #  The contact options.
+# The contact options displayed at the bottom of the sidebar.
 
 - type: github
-  icon: "fab fa-github"
+  icon: 'fab fa-github'
+  # Make sure this matches your exact username string
+  nicks: 'dipsova-saha'
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+- type: linkedin
+  icon: 'fab fa-linkedin'
+  # Change this to your exact LinkedIn URL segment
+  nicks: 'YOUR_LINKEDIN_USERNAME'
 
 - type: email
-  icon: "fas fa-envelope"
-  noblank: true # open link in current tab
-
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
+  icon: 'fas fa-envelope'
+  nicks: 'your-email@example.com'
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
