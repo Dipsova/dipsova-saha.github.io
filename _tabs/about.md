@@ -1,8 +1,10 @@
 ---
-# the default layout is 'page'
+layout: page
+title: About
 icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+# About Me
+
+I am a Technical Writer at Salesforce working on Data Cloud products. This portfolio documents my insights into RAG architectures, metadata grounding, and enterprise AI.
